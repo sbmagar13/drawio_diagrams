@@ -1,9 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T15:08:10.202Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.3" etag="6TmzB4jIfgudqI2bBSMr" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-25T15:16:59.969Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="hC7xmLoK4Oj_MhFv6Abp" version="24.2.3" type="github">
   <diagram name="Page-1" id="Pnwm0JhLUoBO-91U9t_o">
-    <mxGraphModel>
+    <mxGraphModel dx="1194" dy="681" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2380" pageHeight="3107" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="G88rp-cE6GP7g1dpSGxT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontStyle=1;fontSize=14;flowAnimation=1;" edge="1" parent="1" source="G88rp-cE6GP7g1dpSGxT-1" target="G88rp-cE6GP7g1dpSGxT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G88rp-cE6GP7g1dpSGxT-14" value="Build" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=14;" vertex="1" connectable="0" parent="G88rp-cE6GP7g1dpSGxT-12">
+          <mxGeometry x="-0.2727" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G88rp-cE6GP7g1dpSGxT-1" value="Dockerfile" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#0EAAED;shape=mxgraph.azure.file_2;pointerEvents=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="360" y="310" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="G88rp-cE6GP7g1dpSGxT-5" value="Docker Image" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#0EAAED;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=1;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" vertex="1" parent="1">
+          <mxGeometry x="550" y="310" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="G88rp-cE6GP7g1dpSGxT-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2104/24/social_media_social_media_logo_docker-128.png;imageBackground=#0EAAED;imageBorder=none;strokeWidth=1;perimeterSpacing=0;fillStyle=auto;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="597" y="360" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G88rp-cE6GP7g1dpSGxT-9" value="Docker Container" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#000000;fillColor=#0EAAED;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=1;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.containers;" vertex="1" parent="1">
+          <mxGeometry x="760" y="310" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="G88rp-cE6GP7g1dpSGxT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;fontStyle=1;fontSize=14;flowAnimation=1;" edge="1" parent="1" source="G88rp-cE6GP7g1dpSGxT-5" target="G88rp-cE6GP7g1dpSGxT-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G88rp-cE6GP7g1dpSGxT-15" value="Run" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=14;" vertex="1" connectable="0" parent="G88rp-cE6GP7g1dpSGxT-13">
+          <mxGeometry x="0.1333" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T05:04:26.918Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="QvSIbuVKWXY-SD-PG5Jz" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-10T05:08:18.695Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="6JNZ3o6qs26B56wbeSwz" version="24.6.4" type="github">
   <diagram name="Page-1" id="A__zvCagF0eY3WS7tyB6">
-    <mxGraphModel dx="2300" dy="2678" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2272" dy="2650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -866,6 +866,9 @@
         </mxCell>
         <mxCell id="ttoME-h_bFhF7Dcu2_b5-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.145;entryY=0.855;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="ttoME-h_bFhF7Dcu2_b5-3" target="0l8ly5xjkJDx8_FplQ_L-208">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ttoME-h_bFhF7Dcu2_b5-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Fig: Event Logic Security Architecture&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="844" y="808" width="360" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

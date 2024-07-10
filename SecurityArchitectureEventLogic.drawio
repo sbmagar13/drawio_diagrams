@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T04:55:44.986Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="gsW9W8hhlQNGDOK10wvx" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-10T05:02:22.643Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="FQNIhXyB8PP0433rtNIS" version="24.6.4" type="github">
   <diagram name="Page-1" id="A__zvCagF0eY3WS7tyB6">
-    <mxGraphModel dx="1533" dy="2185" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1769" dy="2337" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -473,7 +473,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0l8ly5xjkJDx8_FplQ_L-459" value="Continuously scan instances, container images, repo, Lambda function, AMI OS, network security groups, EBS, etc." style="whiteSpace=wrap;html=1;gradientColor=none;rounded=1;glass=0;shadow=0;textShadow=0;" parent="1" vertex="1">
+        <mxCell id="0l8ly5xjkJDx8_FplQ_L-459" value="&lt;b&gt;Continuously scan instances, container images, repo, Lambda function, AMI OS, network security groups, EBS, etc.&lt;/b&gt;" style="whiteSpace=wrap;html=1;gradientColor=none;rounded=1;glass=0;shadow=0;textShadow=0;" parent="1" vertex="1">
           <mxGeometry x="1723" y="-650" width="193.75" height="81.5" as="geometry" />
         </mxCell>
         <mxCell id="0l8ly5xjkJDx8_FplQ_L-460" value="Lambda extracts client IP address&lt;div&gt;for requests with UserAgent set to&lt;/div&gt;&lt;div&gt;one of the Allowed Bots and verfies it&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;textShadow=0;" parent="1" vertex="1">
@@ -851,6 +851,12 @@
         </mxCell>
         <mxCell id="0l8ly5xjkJDx8_FplQ_L-536" value="&lt;b style=&quot;font-size: 11px; text-wrap: nowrap;&quot;&gt;Malware&amp;nbsp;&lt;/b&gt;&lt;div style=&quot;font-size: 11px; text-wrap: nowrap;&quot;&gt;&lt;b&gt;detections&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textShadow=0;" parent="1" vertex="1">
           <mxGeometry x="1570" y="-260" width="78" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="ttoME-h_bFhF7Dcu2_b5-1" value="&lt;b&gt;Operations, Application, Change and Node Management&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1406" y="-768" width="143" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ttoME-h_bFhF7Dcu2_b5-2" value="&lt;b&gt;Store credentials,&lt;/b&gt;&lt;div&gt;&lt;b&gt;API Keys, Tokens, and other Secrets&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="-968" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
